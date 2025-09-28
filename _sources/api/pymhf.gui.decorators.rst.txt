@@ -1,0 +1,7 @@
+pymhf.gui.decorators module
+===========================
+
+.. automodule:: pymhf.gui.decorators
+   :members:
+   :show-inheritance:
+   :undoc-members:

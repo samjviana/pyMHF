@@ -1,0 +1,7 @@
+pymhf.gui.gui module
+====================
+
+.. automodule:: pymhf.gui.gui
+   :members:
+   :show-inheritance:
+   :undoc-members:

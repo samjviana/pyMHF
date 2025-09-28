@@ -1,0 +1,7 @@
+pymhf.core.errors module
+========================
+
+.. automodule:: pymhf.core.errors
+   :members:
+   :show-inheritance:
+   :undoc-members:
